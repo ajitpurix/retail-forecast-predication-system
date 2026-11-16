@@ -1,0 +1,31 @@
+Feature,Importance
+numeric__rolling_mean_7,6224459776.0
+numeric__lag_7,1562997120.0
+numeric__lag_1,919196480.0
+numeric__lag_14,719664512.0
+numeric__is_weekend,191053264.0
+numeric__weekday,58444328.0
+numeric__day,46883268.0
+numeric__rolling_mean_30,46879824.0
+categorical__family_MEATS,43732968.0
+categorical__family_GROCERY I,42617568.0
+numeric__onpromotion,39753680.0
+numeric__month,37071880.0
+numeric__store_nbr,32716030.0
+categorical__family_PRODUCE,32545060.0
+numeric__year,27294852.0
+categorical__family_FROZEN FOODS,26600828.0
+categorical__family_BEVERAGES,17137728.0
+categorical__family_POULTRY,11832695.0
+categorical__family_CLEANING,11797353.0
+"categorical__family_LIQUOR,WINE,BEER",7886629.0
+categorical__family_EGGS,4610937.0
+categorical__family_PERSONAL CARE,3837051.0
+categorical__family_DAIRY,3724530.5
+categorical__family_HOME CARE,2699004.25
+categorical__family_BREAD/BAKERY,1739208.625
+categorical__family_DELI,1587950.5
+categorical__family_HOME AND KITCHEN I,1373289.5
+categorical__family_CELEBRATION,156652.640625
+categorical__family_PREPARED FOODS,84830.75
+categorical__family_HOME AND KITCHEN II,50304.1875

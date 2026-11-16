@@ -1,0 +1,6 @@
+Model Evaluation Report
+=======================
+Model: XGBoost Regressor
+MAE: 63.1080
+RMSE: 225.8701
+RMSLE: 0.3834
